@@ -1,1 +1,2 @@
-# mike_ward_hw3_csi2520_fs2021
+# mikeward_hw3_csi2520_fs2021
+# mikeward_hw3_csi2520_fs2021
